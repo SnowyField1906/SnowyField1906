@@ -5,5 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowyField1906&layout=compact&theme=jolly&langs_count=8" height="175px"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SnowyField1906&theme=jolly" width="860px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SnowyField1906&theme=jolly" width="850px"/>
 </a>
