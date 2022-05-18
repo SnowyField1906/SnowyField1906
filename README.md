@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SnowyField1906&theme=jolly&v=2" width="837px"/>
 </a>
 
-## My loved language:
+## My loved languages:
 <p align = "center">
   
   <img style="vertical-align: top;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
