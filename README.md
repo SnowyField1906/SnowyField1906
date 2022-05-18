@@ -7,3 +7,4 @@
 <a href="https://wakatime.com/@SnowyField1906">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SnowyField1906&theme=jolly&v=2" width="837px"/>
 </a>
+![Profile views](https://gpvc.arturio.dev/SnowyField1906)
