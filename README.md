@@ -12,11 +12,11 @@
 ## My loved languages:
 <p align = "center">
   
-  <img style="vertical-align: top;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
-  <img style="vertical-align: top;" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="kivy" width="43" height="43"/>
   <img style="vertical-align: top;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
   <img style="vertical-align: top;" src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
   <img style="vertical-align: top;" src="https://www.svgrepo.com/show/374088/solidity.svg" alt="React" width="40" height="40"/> 
+  <img style="vertical-align: top;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
+  <img style="vertical-align: top;" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="kivy" width="43" height="43"/>
   <img style="vertical-align: top;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="38" height="38"/> 
 
 
