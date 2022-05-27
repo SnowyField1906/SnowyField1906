@@ -17,7 +17,7 @@
   <img style="vertical-align: top;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
   <img style="vertical-align: top;" src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/> 
   <img style="vertical-align: top;" src="https://www.svgrepo.com/show/374088/solidity.svg" alt="React" width="40" height="40"/> 
-  <img style="vertical-align: top;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+  <img style="vertical-align: top;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="38" height="38"/> 
 
 
   
