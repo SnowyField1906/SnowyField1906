@@ -16,7 +16,7 @@
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/kivy/kivy-design/blob/master/logo/svg/kivy-logo-light.svg" alt="kivy" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373726/kivy.svg" alt="kivy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/>
   
 </p
