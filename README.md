@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <a href="https://fb.com/trantieuvann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowyField1906&show_icons=true&theme=vue&include_all_commits=true&show_owner=true&hide=stars" height="175px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowyField1906&show_icons=true&theme=vue&include_all_commits=true&show_owner=true" height="175px"/>
 </a>
 <a href="http://fb.com/trantieuvann">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowyField1906&layout=compact&theme=vue&langs_count=8" height="175px"/>
