@@ -32,6 +32,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SnowyField1906&theme=vue&v=1" width="700px"/>
 </div>
 
-<img align="center" src="https://gpvc.arturio.dev/SnowyField1906">
-
-
+![](https://gpvc.arturio.dev/SnowyField1906?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/30595099-02b3-44c9-9553-bfedf73678b0.svg)](https://wakatime.com/@30595099-02b3-44c9-9553-bfedf73678b0)
