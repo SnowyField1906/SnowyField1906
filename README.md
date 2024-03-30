@@ -56,7 +56,9 @@ Mac                      863 hrs 16 mins     ████████░░░�
 Linux                    292 hrs 59 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
-![I have been coding for](http://img.shields.io/badge/I%20have%20been%20coding%20for-2%2C602%20hrs%2020%20mins-blue) ![Lines of code](https://img.shields.io/badge/'I have been writing-3.4%20million%20lines%20of%20code-blue)
+![I have been coding for](http://img.shields.io/badge/I%20have%20been%20coding%20for-2%2C602%20hrs%2025%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/'I have been writing-3.4%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
