@@ -17,3 +17,4 @@ jobs:
           LOCALE: 'vi'
           SHOW_SHORT_INFO: False
           SHOW_PROJECTS: False
+          SHOW_LOC_CHART: False
