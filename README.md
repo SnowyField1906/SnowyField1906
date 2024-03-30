@@ -26,8 +26,8 @@
 ### My GitHub stats
 
 <div align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=SnowyFIeld1906&theme=vue&hide_border=false' height='180px'/>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowyfield1906&theme=vue' width='785px'/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SnowyFIeld1906&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=785" alt="GitHub Streak" /></a>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowyfield1906&theme=graywhite' width='785px'/>
 </div>
 
 ### My coding activities
