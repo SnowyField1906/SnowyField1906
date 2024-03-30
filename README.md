@@ -23,6 +23,13 @@
 4. [Understand in detail and compare optimizer algorithms](https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer)
 5. [A detailed introduction to Mental Poker](https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker)
 
+### My GitHub stats
+
+<div align="center">
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=SnowyFIeld1906&theme=vue&hide_border=false' height='180px'/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowyfield1906&theme=vue' width='785px'/>
+</div>
+
 ### My coding activities
 
 <!--START_SECTION:waka-->
