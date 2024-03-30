@@ -21,3 +21,4 @@ jobs:
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: True
           SHOW_LANGUAGE_PER_REPO: False
+          SHOW_PROFILE_VIEWS: False
