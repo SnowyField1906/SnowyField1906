@@ -12,7 +12,7 @@
   </br>
 </div>
 
-### Lastest blog posts
+### Latest blog posts
 
 1. [Application of Fast Fourier Transform in large integer multiplication](https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon)
 2. [Deep dive into Q-Learning (series)](https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1)
