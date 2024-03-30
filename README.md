@@ -16,7 +16,7 @@
   <a href="https://x.com/SnowyField1906" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
-### Latest blog posts
+### My latest posts
 
 1. [Application of Fast Fourier Transform in large integer multiplication](https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon)
 2. [Deep dive into Q-Learning (series)](https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1)
