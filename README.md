@@ -1,3 +1,27 @@
+
+<div align='center'>
+  <samp>
+    Hi all, I'm <a href="https://snowyfield.me/">0xSnowyField</a>.</br></br>
+    As a Blockchain and Fullstack Developer, I'm passionate about Science, Mathematics, Researching and always looking to learn new things. I'm currently working on a few projects related to Blockchain and Cryptography for my organization <a href="https://github.com/ArismLab">@ArismLab</a> and some freelance projects in aboard.</br></br>
+    But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
+  </samp>
+  </br>
+  </br>
+  ~~~
+  </br>
+  </br>
+</div>
+
+### Lastest blog posts
+
+1. [Application of Fast Fourier Transform in large integer multiplication](https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon)
+2. [Deep dive into Q-Learning (series)](https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1)
+3. [Deep dive into Markov Decision Process (series)](https://www.snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1)
+4. [Understand in detail and compare optimizer algorithms](https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer)
+5. [A detailed introduction to Mental Poker](https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker)
+
+### My coding activities
+
 <!--START_SECTION:waka-->
 **🦉 I'm a night owl** 
 
