@@ -2,14 +2,14 @@
 <div align='center'>
   <samp>
     Hi all, I'm <a href="https://snowyfield.me/">0xSnowyField</a>.</br></br>
-    As a Blockchain and Fullstack Developer, I'm passionate about Science, Mathematics, Researching and always looking to learn new things. I'm currently working on a few projects related to Blockchain and Cryptography for my organization <a href="https://github.com/ArismLab">@ArismLab</a> and some freelance projects in aboard.</br></br>
-    But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
-  </samp>
+    As a Blockchain and Fullstack Developer, I'm passionate about Science, Mathematics, Researching and always looking to learn new things.</br> I'm currently working on a few projects related to Blockchain and Cryptography for my organization <a href="https://github.com/ArismLab">@ArismLab</a> and some freelance projects in aboard.
   </br>
   </br>
   ~~~
   </br>
   </br>
+    But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
+  </samp>
 </div>
 
 ### Latest blog posts
