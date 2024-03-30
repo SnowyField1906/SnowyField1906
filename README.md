@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="./assets/banner.gif" alt="Banner" width="785" />
+<img src="./assets/banner.gif" alt="Banner" width="1000" />
     <br/>
     <br/>
   <samp>
@@ -28,8 +28,8 @@
 ### My GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnowyFIeld1906&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=785" alt="GitHub Streak" />
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowyfield1906&theme=swift' width='785px'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SnowyFIeld1906&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000" alt="GitHub Streak" />
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowyfield1906&theme=swift' width='1000px'/>
 </div>
 
 ### My coding activities
