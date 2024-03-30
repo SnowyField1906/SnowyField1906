@@ -1,12 +1,11 @@
 <div align='center'>
 <img src="./assets/banner.gif" alt="Banner" width="1000" />
-    <br/>
-    <br/>
   <samp>
+    </br></br>~~~</br></br>
     Hi all, I'm <a href="https://snowyfield.me/">0xSnowyField</a> 🧸
-    </br></br>
+    </br>~</br>
     As a Fullstack Developer and Smart Contract Engineer, I'm passionate about Science, Mathematics, Researching and always looking to learn new things.</br> I'm currently working on a few projects related to Blockchain and Cryptography for my organization <a href="https://github.com/ArismLab">@ArismLab</a> and some freelance projects in aboard.
-    </br></br>
+    </br>~</br>
     But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
     </br></br>~~~</br></br>
   </samp>
