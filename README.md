@@ -24,7 +24,10 @@
 ### My coding activities
 
 <!--START_SECTION:waka-->
-**🦉 I'm a night owl** 
+📊 **Since my first "Hello World!", I have spent time on** 
+
+```text
+**I'm a Night** 
 
 ```text
 🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
@@ -45,27 +48,27 @@ Sunday                   180 commits         ████░░░░░░░�
 ```
 
 
-📊 **Since my first "Hello World!", I have spent time on** 
-
-```text
-💬 Programming Languages: 
+💬 Languages: 
 JavaScript               601 hrs 21 mins     ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 Cadence                  355 hrs 18 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 Markdown                 196 hrs 7 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 C++                      191 hrs 32 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 Python                   107 hrs 10 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               97 hrs 6 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Java                     91 hrs 27 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
 VS Code                  1,853 hrs 35 mins   ██████████████████░░░░░░░   71.52 % 
+Chrome                   708 hrs 11 mins     ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 Visual Studio            18 hrs 28 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
-💻 Operating System: 
+💻 Operating Systems: 
 Windows                  1,428 hrs 18 mins   ██████████████░░░░░░░░░░░   55.11 % 
 Mac                      863 hrs 16 mins     ████████░░░░░░░░░░░░░░░░░   33.31 % 
 Linux                    292 hrs 59 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 ```
 
-![I have been coding for](http://img.shields.io/badge/I%20have%20been%20coding%20for-2%2C601%20hrs%2012%20mins-blue) ![Lines of code](https://img.shields.io/badge/I%20have%20been%20writing-3.4%20million%20lines%20of%20code-blue)
+![I have been coding for](http://img.shields.io/badge/I%20have%20been%20coding%20for-2%2C601%20hrs%2055%20mins-blue) ![Lines of code](https://img.shields.io/badge/'I have been writing-3.4%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
