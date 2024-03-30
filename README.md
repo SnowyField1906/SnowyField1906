@@ -10,12 +10,11 @@
     But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
     </br></br>~~~</br></br>
   </samp>
-  <a href="https://stackoverflow.com/users/17358240/snowyfield" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
   <a href = "https://wakatime.com/@SnowyField1906"><img src="https://img.shields.io/badge/-Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/NHThuan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://facebook.com/SnowyField1906" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/17358240/snowyfield" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://facebook.com/SnowyField1906" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://x.com/SnowyField1906" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/vahppk39cf5uxn1m9nyac9ope" target="_blank"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 </div>
 
 ### Latest blog posts
