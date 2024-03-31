@@ -55,7 +55,7 @@ Sunday                   182 commits         ████░░░░░░░�
 ```
 
 
-📊 **Since my first "Hello World!", I have spent time on** 
+📊 **I have spent time on** 
 
 ```text
 📚 Languages: 
@@ -78,7 +78,7 @@ Mac                      875 hrs 40 mins     ████████░░░�
 Linux                    292 hrs 59 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
-<div align='center'><samp></br>~~~</br></br></samp><img src='http://img.shields.io/badge/2%2C604%20hrs%2017%20mins%20coding%20time-black?style=for-the-badge' /> <img src='https://img.shields.io/badge/3.4%20million%20lines%20of%20code-black?style=for-the-badge' /></div>
+<div align='center'><samp></br>~~~</br></br></samp><img src='http://img.shields.io/badge/2605%20coding%20hours-black?style=for-the-badge' /> <img src='https://img.shields.io/badge/3.4%20million%20lines%20of%20code-black?style=for-the-badge' /></div>
 
 
 <!--END_SECTION:waka-->
