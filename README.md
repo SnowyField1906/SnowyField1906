@@ -18,11 +18,11 @@
 
 ### My latest posts
 
-1. [Application of Fast Fourier Transform in large integer multiplication](https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon)
-2. [Deep dive into Q-Learning (series)](https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1)
-3. [Deep dive into Markov Decision Process (series)](https://www.snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1)
-4. [Understand in detail and compare optimizer algorithms](https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer)
-5. [A detailed introduction to Mental Poker](https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker)
+1. <a href="https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon" target="_blank">Application of Fast Fourier Transform in large integer multiplication</a>
+2. <a href="https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1" target="_blank">Deep dive into Q-Learning (series)</a>
+3. <a href="https://www.snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1" target="_blank">Deep dive into Markov Decision Process (series)</a>
+4. <a href="https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer" target="_blank">Understand in detail and compare optimizer algorithms</a>
+5. <a href="https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker" target="_blank">A detailed introduction to Mental Poker</a>
 
 ### My GitHub stats
 
