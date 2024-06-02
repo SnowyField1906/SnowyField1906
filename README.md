@@ -20,23 +20,23 @@
 
 - Feb 17, 2024\: <br/>
   <a href="https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon" target="_blank">Application of Fast Fourier Transform in large integer multiplication</a><br/>
-  <kbd>Computer Science</kbd> <kbd>Number Theory</kbd> <kbd>Mathematics</kbd>
+  <kbd>Computer Science</kbd> <kbd>Complex Numbers</kbd>
   
 - Nov 17, 2023\: <br/>
   <a href="https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1" target="_blank">Deep dive into Q-Learning (3 parts)</a><br/>
-  <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Optimization</kbd> <kbd>Probability</kbd> <kbd>Mathematics</kbd>
+  <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Probability</kbd>
   
 - Nov 10, 2023\: <br/>
   <a href="https://www.snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1" target="_blank">Deep dive into Markov Decision Process (3 parts)</a><br/>
-  <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Optimization</kbd> <kbd>Probability</kbd> <kbd>Mathematics</kbd>
+  <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Probability</kbd>
   
 - Oct 28, 2023\: <br/>
   <a href="https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer" target="_blank">Understand in detail and compare optimizer algorithms</a><br/>
-  <kbd>Supervised Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Optimization</kbd> <kbd>Calculus</kbd> <kbd>Mathematics</kbd>
+  <kbd>Supervised Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Calculus</kbd>
   
 - Sep 01, 2023\: <br/>
   <a href="https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker" target="_blank">A detailed introduction to Mental Poker</a><br/>
-  <kbd>Zero Knowledge</kbd> <kbd>Cryptography</kbd> <kbd>Number Theory</kbd> <kbd>Mathematics</kbd>
+  <kbd>Zero Knowledge</kbd> <kbd>Cryptography</kbd> <kbd>Discrete Mathematics</kbd>
 
 ### My GitHub stats
 
