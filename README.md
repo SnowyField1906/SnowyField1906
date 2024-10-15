@@ -6,7 +6,7 @@
     </br></br>
     As a Fullstack Developer and Smart Contract Engineer, I'm passionate about Science, Mathematics, Researching and always looking to learn new things.</br> I'm currently working on a few projects related to Blockchain and Cryptography for my organization <a href="https://github.com/ArismLab">@ArismLab</a> and some freelance projects in aboard.
     </br></br>
-    But I still haven't graduated yet .. I'm just a 3rd-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
+    But I still haven't graduated yet .. I'm just a 4th-year student at <a href="https://en.hcmus.edu.vn/">VNUHCM - University of Science</a>. What a pain!
     </br></br>~~~</br></br>
   </samp>
   <a href = "https://wakatime.com/@SnowyField1906" target="_blank"><img src="https://img.shields.io/badge/-Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white"></a>
@@ -17,6 +17,10 @@
 </div>
 
 ### My latest posts
+
+- Oct 3, 2024\: <br/>
+  <a href="https://snowyfield.me/posts/fourier-transform-trong-quantum-computing" target="_blank">The Fourier Transform implementation in Quantum Computing</a><br/>
+  <kbd>Quantum Computing</kbd> <kbd>Computer Science</kbd> <kbd>Complex Numbers</kbd> <kbd>Linear Algebra</kbd>
 
 - Feb 17, 2024\: <br/>
   <a href="https://www.snowyfield.me/posts/ung-dung-fast-fourier-transform-trong-phep-nhan-so-nguyen-lon" target="_blank">Application of Fast Fourier Transform in large integer multiplication</a><br/>
