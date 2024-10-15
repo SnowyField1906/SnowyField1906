@@ -27,19 +27,19 @@
   <kbd>Computer Science</kbd> <kbd>Complex Numbers</kbd>
   
 - Nov 17, 2023\: <br/>
-  <a href="https://www.snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1" target="_blank" rel="noopener noreferrer">Deep dive into Q-Learning (3 parts)</a><br/>
+  <a href="https://snowyfield.me/posts/hieu-sau-ve-q-learning-phan-1" target="_blank" rel="noopener noreferrer">Deep dive into Q-Learning (3 parts)</a><br/>
   <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Probability</kbd>
   
 - Nov 10, 2023\: <br/>
-  <a href="https://www.snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1" target="_blank" rel="noopener noreferrer">Deep dive into Markov Decision Process (3 parts)</a><br/>
+  <a href="https://snowyfield.me/posts/hieu-sau-ve-markov-decision-process-phan-1" target="_blank" rel="noopener noreferrer">Deep dive into Markov Decision Process (3 parts)</a><br/>
   <kbd>Reinforcement Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Probability</kbd>
   
 - Oct 28, 2023\: <br/>
-  <a href="https://www.snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer" target="_blank" rel="noopener noreferrer">Understand in detail and compare optimizer algorithms</a><br/>
+  <a href="https://snowyfield.me/posts/tim-hieu-chi-tiet-va-so-sanh-cac-thuat-toan-optimizer" target="_blank" rel="noopener noreferrer">Understand in detail and compare optimizer algorithms</a><br/>
   <kbd>Supervised Learning</kbd> <kbd>Machine Learning</kbd> <kbd>Calculus</kbd>
   
 - Sep 01, 2023\: <br/>
-  <a href="https://www.snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker" target="_blank" rel="noopener noreferrer">A detailed introduction to Mental Poker</a><br/>
+  <a href="https://snowyfield.me/posts/gioi-thieu-chi-tiet-ve-bai-toan-mental-poker" target="_blank" rel="noopener noreferrer">A detailed introduction to Mental Poker</a><br/>
   <kbd>Zero Knowledge</kbd> <kbd>Cryptography</kbd> <kbd>Discrete Mathematics</kbd>
 
 ### My GitHub stats
